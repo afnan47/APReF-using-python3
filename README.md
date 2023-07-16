@@ -1,4 +1,5 @@
-# APReF: Automatic Parallelizer of REcursive Functions
+# Honors in Data Science(SPPU) Final Year Seminar Project.
+## APReF: Automatic Parallelizer of REcursive Functions
 
 This is a python 3 implementation of APReF.
 
